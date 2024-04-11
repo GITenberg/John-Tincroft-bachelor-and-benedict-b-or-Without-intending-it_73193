@@ -1,0 +1,40 @@
+_repo: John-Tincroft-bachelor-and-benedict-b-or-Without-intending-it_73193
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sargent, George E. (George Eliel)
+    aliases:
+    - Sargent, G. E. (George Eliel)
+    - Sargent, George Eliel
+    birthdate: 1809
+    deathdate: 1883
+    gutenberg_agent_id: '56983'
+    url: http://www.gutenberg.org/2009/agents/56983
+description: ''
+gutenberg_issued: '2024-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73193'
+language: en
+pgterms:marc905: 20240305115232sargent
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bThe Religious Tract Society, $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Courtship -- Juvenile fiction'
+- !lcsh 'Marriage -- Juvenile fiction'
+- !lcsh 'Bachelors -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'John Tincroft, bachelor and benedict : $b or, Without intending it'
+url: http://www.gutenberg.org/ebooks/73193
