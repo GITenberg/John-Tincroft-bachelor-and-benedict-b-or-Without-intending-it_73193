@@ -1,5 +1,8 @@
 _repo: John-Tincroft-bachelor-and-benedict-b-or-Without-intending-it_73193
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sargent, George E. (George Eliel)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '56983'
     url: http://www.gutenberg.org/2009/agents/56983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73193#John-Tincroft-bachelor-and-benedict-b-or-Without-intending-it
 gutenberg_issued: '2024-03-18'
 gutenberg_type: Text
 identifiers:
